@@ -10,3 +10,7 @@ husky-lcmtypes
 gps18
 husky-core
 obstacle-detector
+map_server
+check-gridmap
+rrtstar
+lcm-visualization

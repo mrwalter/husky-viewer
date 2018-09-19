@@ -25,3 +25,19 @@
 [submodule "gps18"]
 	path = gps18
 	url = https://github.com/ripl-ttic/gps18
+[submodule "check-gridmap"]
+	path = check-gridmap
+	url = https://github.com/ripl-ttic/check-gridmap
+[submodule "rrtstar"]
+	path = rrtstar
+	url = https://github.com/ripl-ttic/rrtstar
+[submodule "lcm-visualization"]
+	path = lcm-visualization
+	url = https://github.com/ripl-ttic/lcm-visualization
+	branch = husky
+[submodule "octomap-utils"]
+	path = octomap-utils
+	url = https://github.com/ripl-ttic/octomap-utils
+[submodule "laser-utils"]
+	path = laser-utils
+	url = https://github.com/ripl-ttic/laser-utils
