@@ -1,0 +1,27 @@
+[submodule "concise-args"]
+	path = concise-args
+	url = https://github.com/abachrach/concise-args
+[submodule "jpeg-utils"]
+	path = jpeg-utils
+	url = https://github.com/ripl-ttic/jpeg-utils
+[submodule "geom-utils"]
+	path = geom-utils
+	url = https://github.com/ripl-ttic/geom-utils
+[submodule "image-utils"]
+	path = image-utils
+	url = https://github.com/ripl-ttic/image-utils
+[submodule "occ-map"]
+	path = occ-map
+	url = https://github.com/ripl-ttic/occ-map
+[submodule "husky-lcmtypes"]
+	path = husky-lcmtypes
+	url = https://github.com/ripl-ttic/husky-lcmtypes
+[submodule "husky-core"]
+	path = husky-core
+	url = https://github.com/ripl-ttic/husky-core
+[submodule "obstacle-detector"]
+	path = obstacle-detector
+	url = https://github.com/ripl-ttic/obstacle-detector
+[submodule "gps18"]
+	path = gps18
+	url = https://github.com/ripl-ttic/gps18
